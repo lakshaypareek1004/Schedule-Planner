@@ -1,4 +1,3 @@
-<div align="center">
 Here is a professional, high-impact README.md template for your AI Schedule Planner. It is designed to look great on GitHub and clearly communicate the value of your work.
 
 📅 AI-Powered Schedule Planner
