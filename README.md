@@ -1,6 +1,9 @@
 Here is a professional, high-impact README.md template for your AI Schedule Planner. It is designed to look great on GitHub and clearly communicate the value of your work.
+
 <img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/402b7b13-8844-44d8-8006-d7e9e64b33ea" />
 buymeacoffee.com/lakshay_pareek2025
+
+
 📅 AI-Powered Schedule Planner
 Just a developer who creates amazing things for free. Stop fighting your calendar. Let AI build the perfect workday for you. This tool analyzes your tasks, priorities, and energy levels to generate an optimized, realistic schedule.
 
