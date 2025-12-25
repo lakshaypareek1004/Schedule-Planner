@@ -1,0 +1,5 @@
+{
+  "name": "Wayne Planner: Gotham Operations",
+  "description": "A Batman-themed gamified student planner powered by Gemini AI. Transform your daily study routine into tactical missions. Features include 'Batcomputer' AI scheduling, detailed mission debriefs with performance-based XP rewards, skill tracking (Intellect, Strength, Tech, Willpower), and a rank progression system ranging from Gotham Citizen to Dark Knight.",
+  "requestFramePermissions": []
+}
